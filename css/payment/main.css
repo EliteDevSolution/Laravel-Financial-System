@@ -1,0 +1,80 @@
+/*
+*
+* ==========================================
+* FOR DEMO PURPOSES
+* ==========================================
+*
+*/
+
+body {
+    background: #fff;
+}
+
+.rounded-lg {
+    border-radius: 1rem;
+}
+
+.nav-pills .nav-link {
+    color: #555;
+}
+
+.nav-pills .nav-link.active {
+    color: #fff;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background-color: #436c96;
+}
+
+.was-validated .form-control:invalid, .form-control.is-invalid {
+    border-color: #ced4da;
+    background-color: #e4c1c1;
+}
+
+body h1 {
+    color: #436c96;
+}
+
+.tooltip.show .tooltip-inner {
+    background-color: #436c96;
+}
+
+.tooltip.show .arrow::before {
+    border-top-color: #436c96;
+}
+
+.nav-pills .nav-link {
+    border-radius: 1rem !important;
+    border: 1px solid #222;
+    border-top: 3px solid #222;
+    margin: auto 4px;
+}
+
+.nav-pills .nav-link i,
+.nav-pills .nav-link .pm-title {
+    font-size: 18px;
+}
+
+.ui-card-row .row-label {
+    text-align: left;
+}
+.ui-card-row .info {
+    text-align: right;
+}
+
+.ui-card-row span {
+    display: inline-block;
+    width: 40%;
+}
+
+.rounded-pill {
+    border-radius: 1.25rem !important;
+}
+
+.logo {
+    width: 60px;
+}
+
+.captcha-validation {
+    display: none;
+}

@@ -1,0 +1,47 @@
+#intro {
+  background: url("../img/panorama-3094696_1920.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.top-nav-collapse {
+  background-color: #3949ab !important;
+}
+
+.navbar:not(.top-nav-collapse) {
+  background: transparent !important;
+}
+
+@media (max-width: 768px) {
+  .navbar:not(.top-nav-collapse) {
+    background: #3949ab !important;
+  }
+}
+
+#intro .h6 {
+  font-weight: 300;
+  line-height: 1.7;
+}
+
+.hm-gradient .full-bg-img {
+  background: rgba(42, 27, 161, 0.7);
+  background: linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
+}
+
+@media (max-width: 450px) {
+  .margins {
+    margin-right: 1rem;
+    margin-left: 1rem;
+  }
+}
+
+#pricing .lead {
+  opacity: 0.7;
+}
+
+#pricing .card-image {
+  background: url("../img/architecture.jpg") no-repeat center center;
+}
+
+#pricing ul li {
+  font-size: 1.1em;
+}

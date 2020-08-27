@@ -1,0 +1,9 @@
+[03-Jan-2020 01:04:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 119554048 bytes) in /home/ag0l65a2o8xl/public_html/storage/framework/views/858acb574f7502453c55d548447e3c26c2126a8c.php on line 29
+[03-Jan-2020 01:05:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 119554048 bytes) in /home/ag0l65a2o8xl/public_html/storage/framework/views/858acb574f7502453c55d548447e3c26c2126a8c.php on line 29
+[03-Jan-2020 01:06:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 119554048 bytes) in /home/ag0l65a2o8xl/public_html/storage/framework/views/858acb574f7502453c55d548447e3c26c2126a8c.php on line 29
+[03-Jan-2020 01:56:12 UTC] PHP Warning:  Use of undefined constant e_all - assumed 'e_all' (this will throw an Error in a future version of PHP) in /home/ag0l65a2o8xl/public_html/mail.php on line 4
+[03-Jan-2020 01:56:52 UTC] PHP Warning:  Use of undefined constant e_all - assumed 'e_all' (this will throw an Error in a future version of PHP) in /home/ag0l65a2o8xl/public_html/mail.php on line 4
+[03-Jan-2020 01:57:59 UTC] PHP Warning:  Use of undefined constant e_all - assumed 'e_all' (this will throw an Error in a future version of PHP) in /home/ag0l65a2o8xl/public_html/mail.php on line 4
+[03-Jan-2020 01:58:15 UTC] PHP Warning:  Use of undefined constant e_all - assumed 'e_all' (this will throw an Error in a future version of PHP) in /home/ag0l65a2o8xl/public_html/mail.php on line 4
+[03-Jan-2020 02:01:54 UTC] PHP Warning:  Use of undefined constant e_all - assumed 'e_all' (this will throw an Error in a future version of PHP) in /home/ag0l65a2o8xl/public_html/mail.php on line 4
+[23-Apr-2020 16:18:48 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/ag0l65a2o8xl/public_html/app/Http/Controllers/ClaimController.php on line 5
